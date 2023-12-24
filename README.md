@@ -1,4 +1,4 @@
-[https://github.com/makskhv21/myReport/blob/main/README.md#%D1%80%D0%B5%D0%BF%D0%BB%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F](Реплікація )
+[](Реплікація )
 
 
 # Методи масштабування реляційних баз даних
